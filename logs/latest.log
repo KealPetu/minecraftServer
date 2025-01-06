@@ -1,0 +1,59 @@
+[14:41:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:42:01] [ServerMain/INFO]: Loaded 1370 recipes
+[14:42:01] [ServerMain/INFO]: Loaded 1481 advancements
+[14:42:01] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[14:42:01] [Server thread/INFO]: Loading properties
+[14:42:01] [Server thread/INFO]: Default game type: SURVIVAL
+[14:42:01] [Server thread/INFO]: Generating keypair
+[14:42:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:42:02] [Server thread/INFO]: Using epoll channel type
+[14:42:02] [Server thread/INFO]: Preparing level "world"
+[14:42:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:42:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:42:14] [Server thread/INFO]: Time elapsed: 11092 ms
+[14:42:14] [Server thread/INFO]: Done (11.615s)! For help, type "help"
+[14:43:14] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[14:50:15] [User Authenticator #1/INFO]: UUID of player KealPetu is 77910c91-104b-4e9d-9cbe-563640c170ba
+[14:50:16] [Server thread/INFO]: KealPetu[/192.168.100.11:50095] logged in with entity id 11 at (-72.5, 67.0, 25.5)
+[14:50:16] [Server thread/INFO]: KealPetu joined the game
+[14:51:40] [Server thread/INFO]: KealPetu lost connection: Disconnected
+[14:51:40] [Server thread/INFO]: KealPetu left the game
+[14:52:10] [User Authenticator #2/INFO]: UUID of player KealPetu is 77910c91-104b-4e9d-9cbe-563640c170ba
+[14:52:10] [Server thread/INFO]: KealPetu[/192.168.100.11:50148] logged in with entity id 480 at (-79.29884250002794, 67.0, 7.226302318360082)
+[14:52:10] [Server thread/INFO]: KealPetu joined the game
+[14:52:25] [Server thread/INFO]: KealPetu lost connection: Disconnected
+[14:52:26] [Server thread/INFO]: KealPetu left the game
+[14:53:25] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[14:58:44] [Server thread/INFO]: Stopping the server
+[14:58:44] [Server thread/INFO]: Stopping server
+[14:58:45] [Server thread/INFO]: Saving players
+[14:58:45] [Server thread/INFO]: Saving worlds
+[14:58:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:58:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14:58:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14:58:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:58:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:58:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:58:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
